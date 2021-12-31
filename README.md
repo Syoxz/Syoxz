@@ -23,6 +23,9 @@ I like to create own programs, leetcode or simply help other people with my tech
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"alt = "Wordpress Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"alt = "Docker Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt = "Centos Logo"width="50" height ="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "HTML5 Logo"width="50" height ="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt = "Heroku Logo"width="50" height ="50"/>
+
  </p>
 
 ---
