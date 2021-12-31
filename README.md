@@ -27,9 +27,14 @@ I like to create own programs, leetcode or simply help other people with my tech
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt = "Heroku Logo"width="50" height ="50"/>
 
  </p>
-
+ 
 ---
 
+📘 Latest Blog Articles
+
+Coming Soon...
+
+---
 <!--
 **Syoxz/Syoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
