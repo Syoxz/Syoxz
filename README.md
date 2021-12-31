@@ -11,6 +11,11 @@ Switched to Java because of my education and wrote some own programs with it.
 I like to create own programs, leetcode or simply help other people with my tech knowledge.
 
 ---
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height"50" />
+
+
 <!--
 **Syoxz/Syoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
