@@ -8,7 +8,7 @@ My coding experience has started with Python, Django and Web Development.
 
 Switched to Java because of my education and wrote some own programs with it.
 
-I look forward to work more with Python and get used to Web Development.
+I like to create own programs, leetcode or simply help other people with my tech knowledge.
 
 ---
 <!--
