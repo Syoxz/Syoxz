@@ -16,13 +16,14 @@ I like to create own programs, leetcode or simply help other people with my tech
 
 ---
 🧰 Toolbox
-
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"alt = "Python Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt = "Postgresql Logo"width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"alt = "Wordpress Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"alt = "Docker Logo" width="50" height ="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt = "Centos Logo"width="50" height ="50"/>
+ </p>
 
 ---
 
