@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I am Marcel
 ---
 
-23 years young, doing an education in Germany as a A Computer Science Expert Subject Area: Software Development.<br/>
+23 years young, doing an education in Germany as a Computer Science Expert Subject Area: Software Development.<br/>
 My coding experience has started with Python, Django and Web Development.
 
 Switched to Java because of my education and wrote some own programs with it. <br/>
